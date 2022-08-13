@@ -1,7 +1,7 @@
-# Techtrio Virtual Assistant
-![alt text](static/techtriobg.jpeg)
+# Techduo Virtual Assistant
+![alt text](static/techduo.jpeg)
 
-Project made by Team "Techtrio".
+Project made by Team "Techduo".
 
 ## Table of Contents
 - [Description](#description)
@@ -13,7 +13,7 @@ Project made by Team "Techtrio".
 
 ## Description
 
-This is virtual assistant project developed by the team Techtrio. This project is useful to do various  activities  by  using  users voice and as well as we can give command by texting also. It is made to  provide ease in peoples life. You can perform below mentioned features by giving command through voice or by texting in input box. <br>
+This is virtual assistant project developed by the team Techduo. This project is useful to do various  activities  by  using  users voice and as well as we can give command by texting also. It is made to  provide ease in peoples life. You can perform below mentioned features by giving command through voice or by texting in input box. <br>
 Link to our project video :<br>
 https://youtu.be/wONJcv5ORsw
 
